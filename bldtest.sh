@@ -1,3 +1,3 @@
 #!/bin/bash -e
-sleep 3m
+sleep 1m
 echo "try all build.sh steps"
